@@ -12,6 +12,7 @@
 		0862B5FB212EF60A0040C0BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0862B5F9212EF60A0040C0BF /* Main.storyboard */; };
 		0862B5FD212EF60A0040C0BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0862B5FC212EF60A0040C0BF /* Assets.xcassets */; };
 		0862B600212EF60A0040C0BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0862B5FE212EF60A0040C0BF /* LaunchScreen.storyboard */; };
+		0862B608212EF9910040C0BF /* customeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0862B607212EF9910040C0BF /* customeButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0862B5FC212EF60A0040C0BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0862B5FF212EF60A0040C0BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0862B601212EF60A0040C0BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0862B607212EF9910040C0BF /* customeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customeButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0862B5FC212EF60A0040C0BF /* Assets.xcassets */,
 				0862B5FE212EF60A0040C0BF /* LaunchScreen.storyboard */,
 				0862B601212EF60A0040C0BF /* Info.plist */,
+				0862B607212EF9910040C0BF /* customeButton.swift */,
 			);
 			path = TransationAnimation;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0862B608212EF9910040C0BF /* customeButton.swift in Sources */,
 				0862B5F8212EF60A0040C0BF /* ViewController.swift in Sources */,
 				0862B5F6212EF60A0040C0BF /* AppDelegate.swift in Sources */,
 			);
