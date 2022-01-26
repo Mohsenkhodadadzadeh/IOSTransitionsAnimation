@@ -1,6 +1,6 @@
 {
-  "status": 200
-"banners":[
+  "status": 200,
+  "banners":[
   {
     "id":1,
     "title":"The Clumsies Bar",
